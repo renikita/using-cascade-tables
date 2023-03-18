@@ -2,9 +2,9 @@
 This is a project that demonstrates how to use cascade tables for efficient organizing and displaying of data.
 
 ## Table of Contents
-[Installation](https://github.com/renikita/using-cascade-tables/wiki/HTML-Page-with-Side-Drop-Down-Menu)<br>
-[Usage](https://github.com/renikita/using-cascade-tables/wiki/HTML-Page-with-Side-Drop-Down-Menu)<br>
-[Contribution Guidelines](https://github.com/renikita/using-cascade-tables/wiki/HTML-Page-with-Side-Drop-Down-Menu)
+[Installation](https://github.com/renikita/using-cascade-tables/tree/master#installation)<br>
+[Usage](https://github.com/renikita/using-cascade-tables/tree/master#usage)<br>
+[Contribution Guidelines](https://github.com/renikita/using-cascade-tables/tree/master#contribution-guidelines)
 
 ## Installation
 To install this project, simply clone the repository from GitHub:<br>
